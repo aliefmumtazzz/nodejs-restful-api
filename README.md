@@ -6,4 +6,3 @@
 - Database: MySQL
 - ORM: Prisma
 - Testing: Jest, Supertest
-- Validation: Joi
